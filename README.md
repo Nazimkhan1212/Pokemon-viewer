@@ -16,7 +16,7 @@
  
  # Usage
  
- $ git clone https://github.com/ssaboorr/Pokemon-viewer.git
+ $ git clone https://github.com/Nazimkhan1212/Pokemon-viewer.git
  
  $ cd Pokemon-viewer
  
